@@ -1,0 +1,27 @@
+но€б. 27, 2020 1:14:10 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: OP
+но€б. 27, 2020 1:14:10 PM hudson.remoting.jnlp.Main$CuiListener <init>
+INFO: Jenkins agent is running in headless mode.
+но€б. 27, 2020 1:14:10 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 4.5
+но€б. 27, 2020 1:14:10 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using c:\data\slave\remoting as a remoting work directory
+но€б. 27, 2020 1:14:10 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8081/]
+но€б. 27, 2020 1:14:10 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+но€б. 27, 2020 1:14:10 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    50000
+  Identity:      c5:9a:41:e8:c9:56:0a:a7:86:0a:fb:bb:f8:ec:9e:db
+но€б. 27, 2020 1:14:10 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+но€б. 27, 2020 1:14:10 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:50000
+но€б. 27, 2020 1:14:10 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+но€б. 27, 2020 1:14:11 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: c5:9a:41:e8:c9:56:0a:a7:86:0a:fb:bb:f8:ec:9e:db
+но€б. 27, 2020 1:14:11 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
